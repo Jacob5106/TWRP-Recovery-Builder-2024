@@ -24,11 +24,11 @@ on:
       DEVICE_PATH:
         description: 'Specify your Device Path' 
         required: true
-        default: 'device/samsung/astarqltechn'
+        default: 'device/samsung/astarqlte'
       DEVICE_NAME:
         description: 'Specify your Device Codename' 
         required: true
-        default: 'astarqltechn'
+        default: 'astarqlte'
       BUILD_TARGET:
         description: 'Specify your Build Target' 
         required: true
